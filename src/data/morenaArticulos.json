@@ -1,0 +1,306 @@
+  {
+    "articulos":[
+      {
+      "id": "1",
+      "titulo": "Belleza real",
+      "categoria": "Belleza",
+      "texto": "Tu belleza es única y valiosa.",
+      "contenido": "La belleza real nace cuando abrazamos nuestros rasgos sin compararnos con nadie. Cada tono, cada textura y cada detalle cuenta una historia. La confianza es el mejor maquillaje que puedes usar.",
+      "autor": "Misheel",
+      "fecha": "2025-01-10",
+      "img": "/1.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Colores que realzan tu piel morena",
+      "categoria": "Moda",
+      "texto": "Descubre los tonos que más te favorecen.",
+      "contenido": "Los colores tierra, dorados, verdes profundos y tonos cálidos resaltan la piel morena. Jugar con contrastes te ayudará a destacar tu brillo natural.",
+      "autor": "Misheel",
+      "fecha": "2025-01-12",
+      "img": "/piel.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Cómo escribir tu propia historia",
+      "categoria": "Autoestima",
+      "texto": "Empieza a expresarte sin miedo.",
+      "contenido": "Escribir es una herramienta poderosa para conocerte. Anota tus emociones, metas y recuerdos. Con el tiempo verás tu crecimiento y fortaleza.",
+      "autor": "Misheel",
+      "fecha": "2025-01-14",
+      "img": "/2.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Mujeres que inspiran",
+      "categoria": "Historias",
+      "texto": "Historias reales de chicas fuertes.",
+      "contenido": "Cada día mujeres jóvenes superan obstáculos y construyen su propio futuro. Sus historias nos recuerdan la importancia de la resiliencia.",
+      "autor": "Misheel",
+      "fecha": "2025-01-16",
+      "img": "/3.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Autocuidado diario",
+      "categoria": "Bienestar",
+      "texto": "Pequeños hábitos que te cambian el día.",
+      "contenido": "El autocuidado no es lujo, es necesidad. Tomar agua, respirar profundo, tener rutinas de skincare y descansar hacen una gran diferencia.",
+      "autor": "Misheel",
+      "fecha": "2025-01-18",
+      "img": "/4.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Identidad y raíces culturales",
+      "categoria": "Cultura",
+      "texto": "Nuestra identidad es un tesoro.",
+      "contenido": "Somos mezcla de tradiciones, música, comida y fuerza histórica. Conocer nuestras raíces nos fortalece y nos hace sentir orgullosas.",
+      "autor": "Misheel",
+      "fecha": "2025-01-20",
+      "img": "/5.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Moda económica y estilosa",
+      "categoria": "Moda",
+      "texto": "Verte bien sin gastar mucho.",
+      "contenido": "Puedes crear outfits hermosos combinando prendas básicas con accesorios creativos. El estilo no depende del dinero, sino de tu imaginación.",
+      "autor": "Misheel",
+      "fecha": "2025-01-22",
+      "img":"/6.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "Aceptando tu tono y rasgos",
+      "categoria": "Autoestima",
+      "texto": "La belleza empieza por aceptarte.",
+      "contenido": "El amor propio crece cuando dejamos de compararnos con estándares irreales. Tu tono de piel y tus rasgos hablan de tu historia.",
+      "autor": "Misheel",
+      "fecha": "2025-01-24",
+      "img": "/7.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Historias de amor propio",
+      "categoria": "Relatos",
+      "texto": "Testimonios que inspiran.",
+      "contenido": "Chicas jóvenes narran cómo aprendieron a amarse. Todas coinciden en algo: el amor propio es un camino, no un destino.",
+      "autor": "Misheel",
+      "fecha": "2025-01-26",
+      "img": "/8.jpg"
+    },
+    {
+      "id": "10",
+      "titulo": "Estilo para adolescentes morenas",
+      "categoria": "Moda",
+      "texto": "Outfits que realmente te quedan bien.",
+      "contenido": "Prendas cálidas, accesorios dorados y colores vibrantes resaltan la juventud y el tono moreno. Prueba, mezcla y crea tu estilo.",
+      "autor": "Misheel",
+      "fecha": "2025-01-28",
+      "img": "/9.jpg"
+    },
+    {
+      "id": "11",
+      "titulo": "Cómo brillar sin compararte",
+      "categoria": "Motivación",
+      "texto": "Eres suficiente tal como eres.",
+      "contenido": "Las redes sociales muestran vidas perfectas que no son reales. Tu valor no se mide en likes; se mide en tu esencia.",
+      "autor": "Misheel",
+      "fecha": "2025-01-30",
+      "img": "/10.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Afirmaciones positivas",
+      "categoria": "Reflexión",
+      "texto": "Las palabras construyen tu mente.",
+      "contenido": "Decirte frases positivas cada mañana cambia tu energía, te motiva y mejora tu autoestima. Las palabras importan.",
+      "autor": "Misheel",
+      "fecha": "2025-02-01",
+      "img": "/11.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Cultura afroperuana / andina / amazónica",
+      "categoria": "Cultura",
+      "texto": "Nuestras raíces son diversas y hermosas.",
+      "contenido": "Perú es una mezcla cultural rica en artes, música, danza y tradición. Conocerla es honrar a nuestros ancestros.",
+      "autor": "Misheel",
+      "fecha": "2025-02-03",
+      "img": "/12.jpg"
+    },
+
+    {
+      "id": 14,
+      "titulo": "Tendencias de Moda",
+      "categoria": "Moda",
+      "texto": "Los looks más populares del momento.",
+      "contenido": "Oversize, denim, accesorios metálicos y tonos cálidos dominan la temporada. Aprende a combinarlos con tu personalidad.",
+      "autor": "Misheel",
+      "fecha": "2025-02-05",
+      "img": "/13.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Belleza Natural",
+      "categoria": "Belleza",
+      "texto": "Tips de skincare y maquillaje.",
+      "contenido": "La clave del maquillaje natural es resaltar sin ocultar. Piel hidratada, brillo suave y tonos cálidos harán maravillas.",
+      "autor": "Misheel",
+      "fecha": "2025-02-07",
+      "img": "/14.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "Cultura & Lifestyle",
+      "categoria": "Lifestyle",
+      "texto": "Descubre arte, música y libros.",
+      "contenido": "La cultura nos inspira y nos conecta con el mundo. Leer, escuchar música y explorar arte eleva tu creatividad.",
+      "autor": "Misheel",
+      "fecha": "2025-02-09",
+      "img": "/15.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "Tips de Belleza",
+      "categoria": "Belleza",
+      "texto": "Secretos para cuidar tu piel.",
+      "contenido": "Una buena limpieza, hidratación y protector solar son básicos. No necesitas mil productos, solo constancia.",
+      "autor": "Misheel",
+      "fecha": "2025-02-11",
+      "img": "/16.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "Estilo de Vida",
+      "categoria": "Lifestyle",
+      "texto": "Ideas para vivir mejor.",
+      "contenido": "Un estilo de vida equilibrado combina descanso, movimiento, buena alimentación y momentos para ti misma.",
+      "autor": "Misheel",
+      "fecha": "2025-02-13",
+      "img": "/17.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "Recetas Fáciles",
+      "categoria": "Cocina",
+      "texto": "Platos simples y ricos.",
+      "contenido": "Cocinar en casa es más fácil de lo que crees. Puedes preparar platos económicos, sanos y deliciosos sin complicarte.",
+      "autor": "Misheel",
+      "fecha": "2025-02-15",
+      "img": "/18.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "Viajes y Aventuras",
+      "categoria": "Viajes",
+      "texto": "Descubre nuevos destinos.",
+      "contenido": "Viajar abre la mente, te llena de nuevas experiencias y te conecta con personas diferentes.",
+      "autor": "Misheel",
+      "fecha": "2025-02-17",
+      "img": "/19.jpg"
+    },
+    {
+      "id": 21,
+      "titulo": "Frases de inspiración",
+      "categoria": "Motivación",
+      "texto": "Palabras para tu día.",
+      "contenido": "Una frase poderosa puede cambiar tu humor, tu enfoque y tu energía. Llénate de palabras bonitas.",
+      "autor": "Misheel",
+      "fecha": "2025-02-19",
+      "img": "/20.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "Amistades sanas",
+      "categoria": "Reflexión",
+      "texto": "Relaciones que te suman.",
+      "contenido": "Las amistades verdaderas te apoyan, te cuidan y te hacen crecer. Elige personas que te aporten luz.",
+      "autor": "Misheel",
+      "fecha": "2025-02-21",
+      "img": "/21.jpg"
+    },
+    {
+      "id": 23,
+      "titulo": "Cabello con estilo",
+      "categoria": "Belleza",
+      "texto": "Peinados simples pero lindos.",
+      "contenido": "Las trenzas, ondas suaves y recogidos fáciles resaltan tus rasgos y combinan con cualquier outfit.",
+      "autor": "Misheel",
+      "fecha": "2025-02-23",
+      "img": "/22.jpg"
+    },
+    {
+      "id": 24,
+      "titulo": "Creatividad diaria",
+      "categoria": "Lifestyle",
+      "texto": "Activa tu lado creativo.",
+      "contenido": "Escribir, pintar, escuchar música o decorar tu espacio puede ayudarte a expresar emociones.",
+      "autor": "Misheel",
+      "fecha": "2025-02-25",
+      "img": "/23.jpg"
+    },
+    {
+      "id": 25,
+      "titulo": "Maquillaje para piel morena",
+      "categoria": "Belleza",
+      "texto": "Tonos perfectos para ti.",
+      "contenido": "Los subtonos cálidos, dorados y naranjas son ideales para resaltar tu piel. El glow es tu mejor amigo.",
+      "autor": "Misheel",
+      "fecha": "2025-02-27",
+      "img": "/24.jpg"
+    },
+    {
+      "id": 26,
+      "titulo": "Hacer más con menos",
+      "categoria": "Motivación",
+      "texto": "Organízate y brilla.",
+      "contenido": "La productividad no es hacer mucho, sino hacer lo importante. Prioriza, respira y avanza.",
+      "autor": "Misheel",
+      "fecha": "2025-03-01",
+      "img":"/25.jpg"
+    },
+    {
+      "id": 27,
+      "titulo": "Música que sana",
+      "categoria": "Lifestyle",
+      "texto": "Canciones que levantan el ánimo.",
+      "contenido": "La música tiene el poder de cambiar tu estado emocional, ayudarte a concentrarte o relajarte.",
+      "autor": "Misheel",
+      "fecha": "2025-03-03",
+      "img": "/26.jpg"
+    },
+    {
+      "id": 28,
+      "titulo": "Pequeñas metas, grandes cambios",
+      "categoria": "Motivación",
+      "texto": "Empieza de a pocos.",
+      "contenido": "Cumplir pequeñas metas diarias construye disciplina, confianza y progreso real.",
+      "autor": "Misheel",
+      "fecha": "2025-03-05",
+      "img":"/27.jpg"
+    },
+    {
+      "id": 29,
+      "titulo": "Cuidar tu entorno",
+      "categoria": "Bienestar",
+      "texto": "Tu espacio también importa.",
+      "contenido": "Un ambiente limpio, ordenado y bonito te da paz mental y mejora tu energía.",
+      "autor": "Misheel",
+      "fecha": "2025-03-07",
+      "img": "/28.jpg"
+    },
+    {
+      "id": 30,
+      "titulo": "Sé tu mejor versión",
+      "categoria": "Autoestima",
+      "texto": "Eres un proyecto hermoso.",
+      "contenido": "No se trata de ser perfecta, sino de crecer, cuidarte y valorarte cada día. Tú mereces lo mejor.",
+      "autor": "Misheel",
+      "fecha": "2025-03-09",
+      "img": "/29.jpg"
+    }
+    ]
+    
+  } 
