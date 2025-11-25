@@ -3,7 +3,7 @@ import './App.css'
 import { useState } from "react";
 
 import Navbar from './componentes/navbar.jsx';
-import Footer from './componentes/footer.jsx';
+import Footer from './componentes/Footer.jsx'
 import Section from './componentes/section.jsx';
 import Somos from './componentes/Somos.jsx';
 import Hero from './componentes/hero.jsx';
@@ -22,7 +22,7 @@ import BuscadorNavbar from './componentes/BuscadorNavbar.jsx';
 import ArticuloPage from "./componentes/ArticuloPage.jsx";
 import CrearArticulo from './componentes/CrearArticulo.jsx';
 // import ImagePicker from './componentes/ImagePicker.jsx';
-import Contenido from './componentes/contenido.jsx';
+import Contenido from './componentes/Contenido.jsx';
 import Retos from './componentes/Retos.jsx';
 import Galeria from './componentes/Galeria.jsx';
 import Encuesta from './componentes/Encuesta.jsx';
